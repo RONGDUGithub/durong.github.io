@@ -1,24 +1,32 @@
 ---
-permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
+# About Me
+
+Hi, I’m **Rong DU**, a recent Ph.D. graduate from the **Department of Electrical and Electronic Engineering** at **The Hong Kong Polytechnic University**.  
+
+My research spans multiple cutting-edge areas, including **Security & Privacy**, **Blockchain**, and **Differential Privacy**. I am passionate about solving real-world challenges through advanced technologies and am currently seeking opportunities to contribute my expertise in academia or industry.
+
+### Research Interests:
+- **Data Science**: Data fusion, data integrity, high-dimensional/spatiotemporal data processing.
+- **AI Security**: Byzantine robustness, differential privacy.
+- **Index and Query Techniques**: Heavy hitter/histogram statistics, membership tests, Cuckoo hashing.
+
+Feel free to reach out to me via email at [20102636r@connect.polyu.hk](mailto:20102636r@connect.polyu.hk) or connect for potential collaborations and opportunities.
+
+# Education
+
+### **The Hong Kong Polytechnic University**
+- **Ph.D.**, Department of Electrical and Electronic Engineering,  Supervisor: Haibo Hu, Qingqing Ye
+  *(September 1, 2020 – February 1, 2025)*
+ 
+
 ---
 
-I'm a third year undergraduate student from [School of EECS](https://eecs.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/). My research interest includes computer vision, computer graphics, machine learning, and computational photography.
+### **Peking University**
+- **Master (by research)**, School of Electronic and Computer Engineering,  Supervisor: Dagang Li
+  *(September 15, 2017 – July 15, 2019)*
 
-I am very fortunate to be advised by [Prof. XXX](https://www.XXX.com/) of XXX Lab from [School of Computer Science](https://cs.pku.edu.cn/), Peking University. I was advised by [Prof. XX](https://XXX.pku.edu.cn/) from [School of Computer Science](https://cs.pku.edu.cn/), Peking University.
+---
 
-You can find my CV here: [XX's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
-
-[Email](mailto:XX@stu.pku.edu.cn) / [Github](https://github.com/QiuDi233) / [Wechat](../images/wechat.jpg) / [CSDN](https://blog.csdn.net/qd1813100174?spm=1000.2115.3001.5343)
-
-                
-A data-driven personal website
-======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
-
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
-
+### **Beijing Normal University**
+- **Bachelor of Science**, School of Mathematics  
+  *(September 15, 2013 – July 15, 2017)*
