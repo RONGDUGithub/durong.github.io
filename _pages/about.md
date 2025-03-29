@@ -1,4 +1,9 @@
 ---
+title: "About Me"
+layout: default
+permalink: /about/
+---
+
 # About Me
 
 Hi, I’m **Rong DU**, a recent Ph.D. graduate from the **Department of Electrical and Electronic Engineering** at **The Hong Kong Polytechnic University**.  
@@ -12,17 +17,20 @@ My research spans multiple cutting-edge areas, including **Security & Privacy**,
 
 Feel free to reach out to me via email at [20102636r@connect.polyu.hk](mailto:20102636r@connect.polyu.hk) or connect for potential collaborations and opportunities.
 
+---
+
 # Education
 
 ### **The Hong Kong Polytechnic University**
-- **Ph.D.**, Department of Electrical and Electronic Engineering,  Supervisor: Haibo Hu, Qingqing Ye
+- **Ph.D.**, Department of Electrical and Electronic Engineering  
+  Supervisor: Haibo Hu, Qingqing Ye  
   *(September 1, 2020 – February 1, 2025)*
- 
 
 ---
 
 ### **Peking University**
-- **Master (by research)**, School of Electronic and Computer Engineering,  Supervisor: Dagang Li
+- **Master (by research)**, School of Electronic and Computer Engineering  
+  Supervisor: Dagang Li  
   *(September 15, 2017 – July 15, 2019)*
 
 ---
@@ -31,12 +39,13 @@ Feel free to reach out to me via email at [20102636r@connect.polyu.hk](mailto:20
 - **Bachelor of Science**, School of Mathematics  
   *(September 15, 2013 – July 15, 2017)*
 
+---
 
 # Accepted Publications
 
 **R. Du**, Q. Ye, Y. Fu, and H. Hu. "Leveraging Historical Perturbation for Data Stream Publication Under Local Differential Privacy". ICDE2025. (CCF-A)
 
-Y. Mao, Q. Ye, **R. Du**, Q. Wang,  H. Hu and K. Huang. "Multi-class Item Mining under Local Differential Privacy". ICDE2025.(CCF-A)
+Y. Mao, Q. Ye, **R. Du**, Q. Wang, H. Hu and K. Huang. "Multi-class Item Mining under Local Differential Privacy". ICDE2025. (CCF-A)
 
 **R. Du**, Q. Ye, Y. Fu, and H. Hu. "Privacy for Free: Leveraging Local Differential Privacy Perturbed Data from Multiple Services." VLDB2025. (CCF-A)
 
