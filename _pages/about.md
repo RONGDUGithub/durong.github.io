@@ -1,9 +1,3 @@
----
-title: "About Me"
-layout: default
-permalink: /about/
----
-
 # About Me
 
 Hi, I’m **Rong DU**, a recent Ph.D. graduate from the **Department of Electrical and Electronic Engineering** at **The Hong Kong Polytechnic University**.  
