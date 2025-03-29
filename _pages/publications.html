@@ -10,7 +10,7 @@ author_profile: true
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Publications - Rong DU</title>
+    <title>Publications</title>
     <style>
         * {
             margin: 0;
@@ -35,12 +35,20 @@ author_profile: true
             box-shadow: 0 2px 4px rgba(0,0,0,0.1);
         }
 
-        h1 {
+        .main-title {
             color: #2c3e50;
             margin-bottom: 2rem;
-            font-size: 2.5rem;
+            font-size: 3rem;
             border-bottom: 3px solid #3498db;
             padding-bottom: 0.5rem;
+        }
+
+        .section-title {
+            color: #2c3e50;
+            margin-bottom: 2rem;
+            font-size: 2.2rem;
+            padding-bottom: 0.5rem;
+            border-bottom: 2px solid #95a5a6;
         }
 
         h2 {
@@ -95,14 +103,6 @@ author_profile: true
             margin-left: 0.5rem;
         }
 
-        .meta-info {
-            background-color: #f8f9fa;
-            padding: 1rem;
-            margin-bottom: 2rem;
-            border-radius: 6px;
-            border-left: 4px solid #2ecc71;
-        }
-
         @media (max-width: 768px) {
             body {
                 padding: 1rem;
@@ -112,7 +112,11 @@ author_profile: true
                 padding: 1rem;
             }
 
-            h1 {
+            .main-title {
+                font-size: 2.5rem;
+            }
+
+            .section-title {
                 font-size: 2rem;
             }
 
@@ -123,7 +127,9 @@ author_profile: true
     </style>
 </head>
 <body>
-        <h1>Accepted Publications</h1>
+    <div class="container">
+        <h1 class="main-title">Publications</h1>
+        <h2 class="section-title">Accepted Publications</h2>
 
         <div class="year-section">
             <h2>2025</h2>
@@ -218,7 +224,7 @@ author_profile: true
             </div>
         </div>
 
-        <h1>Ongoing Work</h1>
+        <h2 class="section-title">Ongoing Work</h2>
         <div class="year-section">
             <h2>Under Review</h2>
             <div class="publication">
