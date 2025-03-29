@@ -25,15 +25,15 @@ author:
   avatar           : "profile_durong.png"
   name             : "Rong DU (杜蓉)"
   pronouns         : "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "I'm between jobs at the moment."
   location         : "China"
   employer         : "Wild Chicken University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "iambelladu@gmail.com" 
 
   # Academic websites
   arxiv            : "https://arxiv.org/abs/2503.08297"
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?view_op=list_works&hl=zh-CN&user=SvG-yt8AAAAJ"
   impactstory      : # URL
   orcid            : "https://orcid.org/0000-0002-5478-896X"
   semantic         : # URL
@@ -45,12 +45,12 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "https://github.com/RONGDUGithub"
+  github           : "RONGDUGithub"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  # bluesky          : "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
