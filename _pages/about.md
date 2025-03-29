@@ -1,13 +1,22 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About ME"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+Hi, I’m **Rong DU**, a recent Ph.D. graduate from the **Department of Electrical and Electronic Engineering** at **The Hong Kong Polytechnic University**.  
+
+My research spans multiple cutting-edge areas, including **Security & Privacy**, **Blockchain**, and **Differential Privacy**. I am passionate about solving real-world challenges through advanced technologies and am currently seeking opportunities to contribute my expertise in academia or industry.
+
+### Research Interests:
+- **Data Science**: Data fusion, data integrity, high-dimensional/spatiotemporal data processing.
+- **AI Security**: Byzantine robustness, differential privacy.
+- **Index and Query Techniques**: Heavy hitter/histogram statistics, membership tests, Cuckoo hashing.
+
+Feel free to reach out to me via email at [20102636r@connect.polyu.hk](mailto:20102636r@connect.polyu.hk) or connect for potential collaborations and opportunities.
 
 A data-driven personal website
 ======
