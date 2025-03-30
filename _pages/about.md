@@ -30,7 +30,7 @@ Feel free to reach out to me via email at [20102636r@connect.polyu.hk](mailto:20
 ### **Peking University**
 - **Master (by research)**, School of Electronic and Computer Engineering  
   Supervisor: Dagang Li  
-  *(September 15, 2017 – July 15, 2019)*
+  *(September 15, 2017 – July 15, 2020)*
 
 ---
 
