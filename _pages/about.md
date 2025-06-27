@@ -16,7 +16,7 @@ My research spans multiple cutting-edge areas, including **Security & Privacy**,
 - **AI Security**: Byzantine robustness, differential privacy.
 - **Index and Query Techniques**: Heavy hitter/histogram statistics, membership tests, Cuckoo hashing.
 
-Feel free to reach out to me via email at [20102636r@connect.polyu.hk](mailto:20102636r@connect.polyu.hk) or connect for potential collaborations and opportunities.
+Feel free to reach out to me via email at [durong@tyut.edu.cn](durong@tyut.edu.cn) or connect for potential collaborations and opportunities.
 
 # Education
 
