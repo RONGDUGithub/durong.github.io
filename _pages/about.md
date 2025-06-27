@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I’m **Rong DU**, I am working as a **tenure-track Associate Professor** in the **School of Computer Science and Technology** at **Taiyuan University of Technology**.
+Hi, I’m **Rong DU**, and I am working as a **tenure-track Associate Professor** in the **School of Computer Science and Technology** at **Taiyuan University of Technology**.
 
 My research spans multiple cutting-edge areas, including **Security & Privacy**, **Blockchain**, and **Differential Privacy**. I am passionate about solving real-world challenges through advanced technologies and am currently seeking opportunities to contribute my expertise in academia or industry.
 
