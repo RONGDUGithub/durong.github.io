@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I’m **Rong DU**, a recent Ph.D. graduate from the **Department of Electrical and Electronic Engineering** at **The Hong Kong Polytechnic University**.  
+Hi, I’m **Rong DU**, a Ph.D. graduate from the **Department of Electrical and Electronic Engineering** at **The Hong Kong Polytechnic University**.  Currently, I am working as a **tenure-track Associate Professor** in the **School of Computer Science and Technology** at **Taiyuan University of Technology**.
 
 My research spans multiple cutting-edge areas, including **Security & Privacy**, **Blockchain**, and **Differential Privacy**. I am passionate about solving real-world challenges through advanced technologies and am currently seeking opportunities to contribute my expertise in academia or industry.
 
@@ -35,6 +35,6 @@ Feel free to reach out to me via email at [20102636r@connect.polyu.hk](mailto:20
 ---
 
 ### **Beijing Normal University**
-- **Bachelor of Science**, School of Mathematics  
+- **Bachelor of Science**, School of Computer Science and Technology
   *(September 15, 2013 – July 15, 2017)*
 
